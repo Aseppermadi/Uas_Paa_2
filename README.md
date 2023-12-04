@@ -1,4 +1,4 @@
-# Asep permadi Nim F55121049
+# Asep permadi Nim F55121049.
  
 # TSP Djiktra
 Fungsi Bubble Sort (bubble_sort):
